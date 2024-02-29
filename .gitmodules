@@ -1,0 +1,3 @@
+[submodule "arangodb-tutorial"]
+	path = arangodb-tutorial
+	url = https://github.com/ElliotAtHelsinki/arangodb-tutorial
